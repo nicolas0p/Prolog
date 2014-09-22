@@ -18,7 +18,7 @@ orientou('Jerusa Marchi', 'Guilherme Klein Bitencourt', mestrado).
 orientou('Jerusa Marchi', 'Jhonatan Alves', graduacao).
 orientou('Jerusa Marchi', 'Thiago Royer', graduacao).
 
-publicou('Jerusa Marchi', 'TrustE - An Emotional Trust Model for Agents').
+publicou('Jerusa Marchi', 'TrustE - An Emotional Trust Model for Agents', 2013).
 
 
 %Luiz Claudio Villar dos Santos
@@ -27,9 +27,9 @@ orientou('Luiz Claudio Villar dos Santos', 'Vinicius dos Santos Livramento', dou
 orientou('Luiz Claudio Villar dos Santos', 'Emilio Wuerges', doutorado).
 orientou('Luiz Claudio Villar dos Santos', 'Rafael Westphal', doutorado).
 
-publicou('Luiz Claudio Villar dos Santos', 'On-the-fly Verification of Memory Consistency with Concurrent Relaxed Scoreboards').
-publicou('Luiz Claudio Villar dos Santos', 'Reconciling real-time guarantees and energy efficiency through unlocked-cache prefetching').
-publicou('Luiz Claudio Villar dos Santos', 'Pre-silicon verification of multiprocessor SoCs: The case for on-the-fly coherence/consistency checking').
+publicou('Luiz Claudio Villar dos Santos', 'On-the-fly Verification of Memory Consistency with Concurrent Relaxed Scoreboards', 2014).
+publicou('Luiz Claudio Villar dos Santos', 'Reconciling real-time guarantees and energy efficiency through unlocked-cache prefetching', 2013).
+publicou('Luiz Claudio Villar dos Santos', 'Pre-silicon verification of multiprocessor SoCs: The case for on-the-fly coherence/consistency checking', 2013).
 
 
 %Mario Antonio Ribeiro Dantas
@@ -48,15 +48,15 @@ orientou('Mario Antonio Ribeiro Dantas', 'Eduardo Camilo Inacio', graduacao).
 orientou('Mario Antonio Ribeiro Dantas', 'Richard Pereira e Silva', graduacao).
 orientou('Mario Antonio Ribeiro Dantas', 'Matheus Rosado Vill', graduacao).
 
-publicou('Mario Antonio Ribeiro Dantas', 'A Survey into Performance and Energy Efficiency in HPC, Cloud and Big Data Environments').
-publicou('Mario Antonio Ribeiro Dantas', 'Context Management: Toward Assessing Quality of Context Parameters in a Ubiquitous Ambient Assisted Living Environment').
-publicou('Mario Antonio Ribeiro Dantas', 'Optimization of PACS Data Persistency Using Indexed Hierarchical Data').
-publicou('Mario Antonio Ribeiro Dantas', 'UBUNTU: A escola necessaria para o futuro').
-publicou('Mario Antonio Ribeiro Dantas', 'A case-comparison study of automatic document classification utilizing both serial and parallel approaches').
-publicou('Mario Antonio Ribeiro Dantas', 'Modeling a distributed environment for a petroleum reservoir engineering application with software product line').
-publicou('Mario Antonio Ribeiro Dantas', 'Towards a Resource Reservation Approach for an Opportunistic Computing Environment').
-publicou('Mario Antonio Ribeiro Dantas', 'Green Cloud Computing: An Experimental Validation').
-publicou('Mario Antonio Ribeiro Dantas', 'A Data Management Study in a Private Cloud Storage').
+publicou('Mario Antonio Ribeiro Dantas', 'A Survey into Performance and Energy Efficiency in HPC, Cloud and Big Data Environments', 2014).
+publicou('Mario Antonio Ribeiro Dantas', 'Context Management: Toward Assessing Quality of Context Parameters in a Ubiquitous Ambient Assisted Living Environment', 2014).
+publicou('Mario Antonio Ribeiro Dantas', 'Optimization of PACS Data Persistency Using Indexed Hierarchical Data', 2014).
+publicou('Mario Antonio Ribeiro Dantas', 'UBUNTU: A escola necessaria para o futuro', 2013).
+publicou('Mario Antonio Ribeiro Dantas', 'A case-comparison study of automatic document classification utilizing both serial and parallel approaches', 2013).
+publicou('Mario Antonio Ribeiro Dantas', 'Modeling a distributed environment for a petroleum reservoir engineering application with software product line', 2013).
+publicou('Mario Antonio Ribeiro Dantas', 'Towards a Resource Reservation Approach for an Opportunistic Computing Environment', 2013).
+publicou('Mario Antonio Ribeiro Dantas', 'Green Cloud Computing: An Experimental Validation', 2013).
+publicou('Mario Antonio Ribeiro Dantas', 'A Data Management Study in a Private Cloud Storage', 2013).
 
 
 %Lau Cheuk Lung
@@ -73,16 +73,16 @@ orientou('Lau Cheuk Lung', 'Aldelir Fernando Luiz', doutorado).
 orientou('Lau Cheuk Lung', 'Marcelo Ribeiro Xavier da Silva', mestrado).
 orientou('Lau Cheuk Lung', 'Fernando Achylles Dettoni', mestrado).
 
-publicou('Lau Cheuk Lung', 'MITRA: Byzantine Fault-Tolerant Middleware for Transaction Processing on Replicated Databases').
-publicou('Lau Cheuk Lung', 'Co-Evolution of Antagonistic Intelligent Agents Using Genetic Algorithms').
-publicou('Lau Cheuk Lung', 'Vbam - Byzantine Atomic Multicast in LAN Based on Virtualization Technology').
-publicou('Lau Cheuk Lung', 'Efficient Byzantine Fault-Tolerance').
-publicou('Lau Cheuk Lung', 'Using Virtualization Technology for Fault-Tolerant Replication in LAN').
+publicou('Lau Cheuk Lung', 'MITRA: Byzantine Fault-Tolerant Middleware for Transaction Processing on Replicated Databases', 2014).
+publicou('Lau Cheuk Lung', 'Co-Evolution of Antagonistic Intelligent Agents Using Genetic Algorithms', 2013).
+publicou('Lau Cheuk Lung', 'Vbam - Byzantine Atomic Multicast in LAN Based on Virtualization Technology', 2013).
+publicou('Lau Cheuk Lung', 'Efficient Byzantine Fault-Tolerance', 2013).
+publicou('Lau Cheuk Lung', 'Using Virtualization Technology for Fault-Tolerant Replication in LAN', 2013).
 
 
 %Renato Fileto
 
-orientou('Renato Fileto', 'Juarez ångelo Piazza Sacenti', mestrado).
+orientou('Renato Fileto', 'Juarez Angelo Piazza Sacenti', mestrado).
 orientou('Renato Fileto', 'Renata de Jesus Silva', mestrado).
 orientou('Renato Fileto', 'Ricardo Gil Belther Nabo', mestrado).
 orientou('Renato Fileto', 'Felipe Pinto da Silva', mestrado).
@@ -96,12 +96,12 @@ orientou('Renato Fileto', 'Douglas Klein', graduacao).
 orientou('Renato Fileto', 'Cleto May', graduacao).
 orientou('Renato Fileto', 'Karina Fasolin', mestrado).
 orientou('Renato Fileto', 'Andre Salvaro Furtado', mestrado).
-orientou('Renato Fileto', 'Juarez ångelo Piazza Sacenti', graduacao).
+orientou('Renato Fileto', 'Juarez Angelo Piazza Sacenti', graduacao).
 orientou('Renato Fileto', 'Marcelo Kruger', graduacao).
 orientou('Renato Fileto', 'Jean Goncalves', graduacao).
 
-publicou('Renato Fileto', 'SMoT+: Extending the SMoT Algorithm for Discovering Stops in Nested Sites').
-publicou('Renato Fileto', 'Assessing the Attractiveness of Places with Movement Data').
+publicou('Renato Fileto', 'SMoT+: Extending the SMoT Algorithm for Discovering Stops in Nested Sites', 2013).
+publicou('Renato Fileto', 'Assessing the Attractiveness of Places with Movement Data', 2013).
 
 
 %1. Qual e o orientador de um dado aluno? 
@@ -118,7 +118,7 @@ quantosAlunos(Prof, Quantidade) :- todosOsOrientados(Prof, Lista), length(Lista,
 publicacoes(Pessoa, Publicacoes) :- findall(Artigo, publicou(Pessoa, Artigo, _), Publicacoes).
 
 %6. Qual o professor (entre os k) com maior numero de orientacoes?
-%professorComMaisOrientacoes().
+professorComMaisOrientacoes(Maior) :- todosOsProfessores(Professores), procurarMaior(Professores, , Maior)
 
 	%Maior é o professor, entre Um e Dois, que tem maior numero de alunos
 maiorProfessor(Um, Dois, Um) :- quantosAlunos(Um, QuantUm), quantosAlunos(Dois, QuantDois), QuantUm >= QuantDois.
@@ -144,7 +144,7 @@ mediaDeOrientacoes(Media) :- todosOsProfessores(Todos), somaDasOrientacoes(Todos
 
 
 %12. Há algum artigo científico no qual dois ou mais professores(entre os k) são coautores? Quais?
-coautores(Professores, []).
+coautores(Artigo) :- publicou(ProfA, Artigo), publicou(ProfB, Artigo), ProfA /+ ProfB.
 
 %13. Qual a média de artigos científicos publicados por professor em um dado ano?
 artigosNoAnoProfessor(Professor, Ano, Quantidade) :- findall(Artigo , publicou(Professor, Artigo, Ano), TodosOsArtigos), length(TodosOsArtigos, Quantidade).
