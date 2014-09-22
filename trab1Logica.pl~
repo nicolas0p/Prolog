@@ -109,10 +109,10 @@ aluno(X) :- orientou(_, X, _).
 professor(X) :- orientou(X, _, _).
 
 %2. Quais os alunos orientados por um um dado professor?
-todosOsOrientados(Prof, Alunos) :- findall(Orientando, orientou(Prof, Orientando, _), Alunos).
+todosOsAlunos(Prof, Alunos) :- findall(Orientando, orientou(Prof, Orientando, _), Alunos).
 
 %3. Quantos alunos (orientandos) um dado professor orienta? 
-quantosAlunos(Prof, Quantidade) :- todosOsOrientados(Prof, Lista), length(Lista, Quantidade).
+quantosAlunos(Prof, Quantidade) :- todosOsAlunos(Prof, Lista), length(Lista, Quantidade).
 
 %4/5. Quais os artigos cientificos publicados por um dado professor/aluno?
 publicacoes(Pessoa, Publicacoes) :- findall(Artigo, publicou(Pessoa, Artigo, _), Publicacoes).
